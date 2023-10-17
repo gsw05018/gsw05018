@@ -49,6 +49,6 @@
 <br>
 
 <div align="center">
-	<h3> My GitHub Hit </h3>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgsw05018&count_bg=%237CD4FF&title_bg=%2354F7FF&icon=&icon_color=%23FFFFFF&title=%E2%99%A5&edge_flat=false)](https://hits.seeyoufarm.com)
+	<h3>✨ Today ✨</h3>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgsw05018&count_bg=%23B3E3FF&title_bg=%23F51668&icon=&icon_color=%23FFFFFF&title=%E2%99%A5&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
